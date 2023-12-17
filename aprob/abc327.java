@@ -5,7 +5,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class ab {
+public class abc327 {
     public static void main(String args[]) {
         Scanner getval = new Scanner(System.in);
         int N = getval.nextInt();

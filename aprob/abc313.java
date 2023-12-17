@@ -4,7 +4,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class ToBeSaikyo {
+public class abc313 {
     public static void main(String args[]) {
         Scanner getval = new Scanner(System.in);
         int N = getval.nextInt();

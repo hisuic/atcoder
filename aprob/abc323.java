@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-class weakbeats {
+class abc323 {
     public static void main(String args[]) {
         Scanner getval = new Scanner(System.in);
         String S = getval.nextLine();

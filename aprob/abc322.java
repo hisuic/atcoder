@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-class firstabc2 {
+class abc322 {
     public static void main(String args[]) {
         Scanner getval = new Scanner(System.in);
         int N = getval.nextInt();

@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class twoup3down {
+public class abc326 {
     public static void main(String args[]) {
         Scanner getval = new Scanner(System.in);
         int X = getval.nextInt();

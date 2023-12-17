@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class takahashisan {
+public class abc325 {
     public static void main(String[] args) {
         Scanner getline = new Scanner(System.in);
         String input = getline.nextLine(); 

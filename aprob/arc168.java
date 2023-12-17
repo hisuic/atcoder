@@ -12,9 +12,9 @@ class arc168 {
 
         for (int i = 0; i < N + 1; i++) {
             if (Sarray[i] == '<') {
-                if 
+                // if 
             } else {
-                a
+                // a
             }
         }
     }

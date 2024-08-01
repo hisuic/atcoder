@@ -20,7 +20,7 @@ int main(void) {
   }
   char result[5] = "No";
   for (int i = 0; i < K; i++) {
-    if (A[B[i - 1]] == biggest) {
+    if (A[B[i]] == biggest) {
       strcpy(result, "Yes");
     }
   }

@@ -11,10 +11,10 @@ int main(void) {
 
   for (int i = 0; i < N; i++) {
     if (T[i] == 'o' && A[i] == 'o') {
-      printf("Yes");
+      printf("Yes\n");
       return 0;
     }
   }
-  printf("No");
+  printf("No\n");
   return 0;
 }
